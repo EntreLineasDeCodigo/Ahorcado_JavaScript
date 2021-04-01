@@ -1,4 +1,4 @@
-var palabra = ["programar","diseñar","dominio","estudiar","aprobado","dificil","hosting","ahorcado","calamidad","funciona","string","matriz"];
+var palabra = ["programar","diseñar","dominio","estudiar","aprobado","dificil","hosting","ahorcado","calamidad","funciona","string","matriz","angular","reaccion","diseño","habitacion","montaña","almuerzo","niño","pantalones","alegria","naranja","cereza","gallina"];
 var aleatorio = palabra[Math.floor(Math.random() * palabra.length)];  //Creamos las palabras del juego y la elegimos al azar
 var guionbajo = [];
 var intentos = 6;
